@@ -6,4 +6,4 @@ Implementación de un CRUD a una entidad Alumno desde una base de datos relacion
 
 *Se usa la tecnología gradle para su compilación.
 ## Prueba del servicio RES con postman
-[Link](http://localhost/) de un video demo de las operaciones RES con postman.
+[Link](https://drive.google.com/file/d/1IPTm5HkWtpbyqyF8KvLzzWHd_XHpmDDS/view?usp=drive_link) de un video demo de las operaciones RES con postman.
